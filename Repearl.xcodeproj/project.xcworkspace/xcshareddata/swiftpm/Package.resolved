@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "appfolder",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/dreymonde/AppFolder",
+      "state" : {
+        "revision" : "17fff5281ef3ad6eb3be04a447d169975aa552e0",
+        "version" : "0.2.0"
+      }
+    }
+  ],
+  "version" : 2
+}
